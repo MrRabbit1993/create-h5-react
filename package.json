@@ -17,10 +17,15 @@
     "postcss-px-to-viewport": "^1.1.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-router-dom": "6",
     "react-scripts": "5.0.1",
     "typescript": "^4.6.3",
     "vconsole": "^3.14.5",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser":"^5.20.0",
+    "@typescript-eslint/eslint-plugin":"^5.20.0"
   },
   "scripts": {
     "start": "craco start",
